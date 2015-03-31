@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: mitos-exec@mit.edu
 description: "MITOS helps students contribute to open source projects by connect them with other students, industry professionals, and professors who are currently working on open source projects. Members gain valuable experience contributing to projects of their choosing while giving back to the open source community."
 baseurl: ""
-url: "http://mit-open-source.github.io"
+url: "http://mitos.mit.edu"
 # twitter_username: SBootstrap
 github_username:  mit-open-source
 youtube_username: mitos
