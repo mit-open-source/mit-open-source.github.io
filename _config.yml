@@ -1,14 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: MITOS
+header-img: img/home-bg.jpg
+email: mitos-exec@mit.edu
+description: "MITOS helps students contribute to open source projects by connect them with other students, industry professionals, and professors who are currently working on open source projects. Members gain valuable experience contributing to projects of their choosing while giving back to the open source community."
+baseurl: ""
+url: "http://mit-open-source.github.io"
+# twitter_username: SBootstrap
+github_username:  mit-open-source
+# facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "contact.html"]

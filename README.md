@@ -1,2 +1,4 @@
-# www
-The MITOS Blog
+#MIT Open Source Website
+
+Official blog.
+
