@@ -31,7 +31,14 @@ module.exports = function(grunt) {
         banner: '/*!\n' +
             ' * <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
             ' * Copyright <%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
+            ' * Clean Blog template by IronSummitMedia\n' +
+            ' *     <https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll>\n' +
             ' * Licensed under <%= pkg.license.type %> (<%= pkg.license.url %>)\n' +
+            '\n' +
+            ' * ********\n' +
+            ' * THIS IS AN AUTO-GENERATED FILE. DO NOT EDIT IT DIRECTLY!\n' +
+            ' * INSTEAD, EDIT THE ORIGINAL SOURCE FILE AND REGENERATE THIS FILE.\n' +
+            ' * ********\n' +
             ' */\n',
         usebanner: {
             dist: {
