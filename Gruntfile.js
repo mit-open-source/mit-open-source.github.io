@@ -29,7 +29,7 @@ module.exports = function(grunt) {
             }
         },
         banner: '/*!\n' +
-            ' * <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n' +
+            ' * <%= pkg.title %> (<%= pkg.homepage %>)\n' +
             ' * Copyright <%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
             ' * Clean Blog template by IronSummitMedia\n' +
             ' *     <https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll>\n' +

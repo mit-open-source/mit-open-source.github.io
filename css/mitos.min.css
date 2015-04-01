@@ -1,5 +1,5 @@
 /*!
- * MIT Open Source v1.0.0 (http://mitos.mit.edu/)
+ * MIT Open Source (http://mitos.mit.edu/)
  * Copyright 2015 MITOS
  * Clean Blog template by IronSummitMedia
  *     <https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll>
