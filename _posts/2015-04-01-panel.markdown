@@ -12,7 +12,7 @@ Our first MITOS meeting was a great success! Thanks to everyone who came out tod
 </p>
 
 <p>
-Shauna also gave us a link to some paid open source projects for students. Although a lot of projects are listed for 2014, they are still being held this year. Check them out at <a href="https://openhatch.org/wiki/Opportunities">https://openhatch.org/wiki/Opportunities</a>. (We’ll also be storing a separate list of projects discussed during MITOS meetings on our <a href="http://mitos.mit.edu/projects/">Projects Page</a>).
+Shauna also gave us a link to some paid open source projects for students. Although a lot of projects are listed for 2014, they are still being held this year. Check them out at <a href="https://openhatch.org/wiki/Opportunities">https://openhatch.org/wiki/Opportunities</a>. (We’ll also be storing a separate list of projects discussed during MITOS meetings on our <a href="{{ site.baseurl }}/projects/">Projects Page</a>).
 </p>
 
 <p>
