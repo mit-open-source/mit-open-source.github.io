@@ -8,27 +8,47 @@ tags:
 - panel
 ---
 <p>
-Our first MITOS meeting was a great success! Thanks to everyone who came out today! To learn more about contributing to projects, we invited three speakers to answer our open source questions in a panel discussion. Our panelists were Shauna Gordon-McKeon, Program Director for OpenHatch; Hal Abelson, professor at MIT CSAIL; and Adam Marcus, CSAIL PhD and contributor to Locu’s Chronology project. All three had varied experiences, and we saw perspectives from freelance, free software, and industry.
+Our first MITOS meeting was a great success! Thanks to everyone who came out
+today! To learn more about contributing to projects, we invited three speakers
+to answer our questions on open source in a panel discussion. Our panelists were
+Shauna Gordon-McKeon, Program Director for OpenHatch; Hal Abelson, professor at
+MIT CSAIL; and Adam Marcus, CSAIL PhD and contributor to Locu’s Chronology
+project. All three had varied experiences, so we got to see perspectives from
+freelance, free software, and industry.
 </p>
 
 <p>
-Shauna also gave us a link to some paid open source projects for students. Although a lot of projects are listed for 2014, they are still being held this year. Check them out at <a href="https://openhatch.org/wiki/Opportunities">https://openhatch.org/wiki/Opportunities</a>. (We’ll also be storing a separate list of projects discussed during MITOS meetings on our <a href="{{ site.baseurl }}/projects/">Projects Page</a>).
+Shauna also gave us a link to some paid open source opportunities for students.
+Although a lot of the programs are listed for 2014, they are still being held
+this year. Check them out at
+<a href="https://openhatch.org/wiki/Opportunities">https://openhatch.org/wiki/Opportunities</a>.
+We’ll also be storing a list of open source projects discussed during MITOS
+meetings on our <a href="{{ site.baseurl }}/projects/">Projects Page</a>.
 </p>
 
 <p>
-We’ve written out some of the interesting questions and answers from the day (all paraphrased). Enjoy!
+We’ve paraphrased some of the questions and answers from the panel. Enjoy!
 </p>
 
 <h3>Introductions</h3>
 <div>
 <p>
-<b>Shauna</b>: I work with OpenHatch, and get students involved in open source. I run the Open Source Comes to Campus event. I’m also a freelancer/independent contractor, and I used to work in the biomedical field.
+<b>Shauna</b>: I work with OpenHatch, and get students involved in open source.
+I run the ``Open Source Comes to Campus" event. I’m also a
+freelancer/independent contractor, and I used to work in the biomedical field.
 </p>
 <p>
-<b>Hal</b>: I’m a professor here at CSAIL. I believe in free software, not open source. Free software is about removing the restrictions on how one can share/develop software, and emphasizes freedom more than the term "open source".
+<b>Hal</b>: I’m a professor here at CSAIL. I believe in free software, not open
+source. Free software is about removing the restrictions on how one can
+share/develop software, and emphasizes freedom more than the term "open
+source".
 </p>
 <p>
-<b>Adam</b>: I got my PhD here at CSAIL, and I moved to a startup called Locu, now acquired by GoDaddy. I’ve tried to release a lot of software as free software. Basically, I think anything that isn’t a secret in business should try to be released as open source. Recently, I’ve worked on the Chronology project, which a lot of interns have also contributed to.
+<b>Adam</b>: I got my PhD here at CSAIL, and I moved to a startup called Locu,
+now acquired by GoDaddy. I’ve tried to release a lot of software as free
+software. Basically, I think anything that isn’t a secret in business should
+try to be released as open source. Recently, I’ve worked on the Chronology
+project, which a lot of interns have also contributed to.
 </p>
 </div>
 
@@ -36,45 +56,99 @@ We’ve written out some of the interesting questions and answers from the day (
 
 <div>
 <p>
-<b>Shauna</b>: I started out as a neuroscientist working with imaging data. I didn’t know about floss [free/libre open source software] then, but I was frustrated with the lack of open access to published journal articles. This is another type of information that I feel everyone should have access to. People use proprietary tools that have a great impact, but you’re forced to rely on that.
+<b>Shauna</b>: I started out as a neuroscientist working with imaging data. I
+didn’t know about FLOSS (free/libre open source software) then, but I was
+frustrated with the lack of open access to published journal articles. This is
+another type of information that I feel everyone should have access to. People
+use proprietary tools that have a great impact, but you’re forced to rely on
+that.
 </p>
 
 <p>
-<b>Hal</b>: People certainly make fantastic proprietary tools, but we are more and more subject to behavior of software artifacts that are having an effect on our lives. By nature of intellectual property laws, we are not permitted to know what’s going on. For example, Equifax gives you a credit score that is secret so you have no way of asking “Why is it saying that?” That’s just a small example of what’s happening right now. Do you know if the microphone in your cell can be turned on remotely by Verizon or NSA? You can’t know. You can’t look at what’s in there. This is why making this stuff free is getting more and more important. The important information used to be about stocks, but now there are claims that phones can pick up heartbeats from the accelerometer. There should be a firm rule that the public ought to be able to see what this stuff is.
+<b>Hal</b>: People certainly make fantastic proprietary tools, but we are more
+and more subject to behavior of software artifacts that are having an effect on
+our lives. By nature of intellectual property laws, we are not permitted to
+know what’s going on. For example, Equifax gives you a credit score that is
+secret so you have no way of asking “Why is it saying that?” That’s just a
+small example of what’s happening right now. Do you know if the microphone in
+your cell can be turned on remotely by Verizon or NSA? You can’t know. You
+can’t look at what’s in there. This is why making this stuff free is getting
+more and more important. The important information used to be about stocks, but
+now there are claims that phones can pick up heartbeats from the accelerometer.
+There should be a firm rule that the public ought to be able to see what this
+stuff is.
 </p>
 
 <p>
-<b>Adam</b>: On the industry side, I think it’s just practical. It’s frustrating to build something that someone else has built a thousand times before. When you do it yourself, you don’t have as many eyeballs, and the project hasn’t been hardened with as many edge cases. I think if the code is not critical to the business, it should be free. There’s also a community aspect, where the project becomes a part of your social circle. Unlike your company, nobody defines the projects you have to work on, so you work on problems you want to solve. People come together.
+<b>Adam</b>: On the industry side, I think it’s just practical. It’s
+frustrating to build something that someone else has built a thousand times
+before. When you do it yourself, you don’t have as many eyeballs, and the
+project hasn’t been hardened with as many edge cases. I think if the code is
+not critical to the business, it should be free. There’s also a community
+aspect, where the project becomes a part of your social circle. Unlike your
+company, nobody defines the projects you have to work on, so you work on
+problems you want to solve. People come together.
 </p>
 </div>
 
-<h3> Isn’t there a school of thought that if you expose your code, they [attackers] can find vulnerabilities and use it to attack your code? </h3>
+<h3> Isn’t there a school of thought that if you expose your code, attackers
+can find vulnerabilities and use it to attack your code? </h3>
 <div>
 <p>
-<b>Hal</b>: The reality is that nobody knows. Lots of people are waving their hands up and down but the argument has been going on for a pretty long time. There just isn’t a lot of good evidence to make that claim.
+<b>Hal</b>: The reality is that nobody knows. Lots of people are waving their
+hands up and down but the argument has been going on for a pretty long time.
+There just isn’t a lot of good evidence to make that claim.
 </p>
 
 <p>
-<b>Adam</b>: Empirically, one thing you can be certain of is that there have been enough break-ins at banks, etc. that suggests the obscurity isn’t helping their case. It’s important to have more research done, but it doesn’t feel like you can hide behind obscurity.
+<b>Adam</b>: Empirically, one thing you can be certain of is that there have
+been enough break-ins at banks, etc. that suggests the obscurity isn’t helping
+their case. It’s important to have more research done, but it doesn’t feel like
+you can hide behind obscurity.
 </p>
 </div>
 
-<h3> Free software’s goal is to have people understand what they’re using.  Most people can’t read code. So how can we make sure that happens? </h3>
+<h3> Free software’s goal is to have people understand what they’re using.
+Most people can’t read code. So how can we make sure that happens? </h3>
 
 <div>
 <p>
-<b>Shauna</b>: There’s been a lot of push to teach everyone to code recently, and this technical push to exposure is great! We should make sure everyone who wants to learn gets support in doing so. However, not everyone wants to learn, or has the ability to understand. So by “understanding” we’re really talking about a group understanding. I see it as a matter of social responsibility. I need to rely on other people to understand things that I don’t have time/ability to understand.
+<b>Shauna</b>: There’s been a lot of push to teach everyone to code recently,
+and this technical push to exposure is great! We should make sure everyone who
+wants to learn gets support in doing so. However, not everyone wants to learn,
+or has the ability to understand. So by “understanding” we’re really talking
+about a group understanding. I see it as a matter of social responsibility. I
+need to rely on other people to understand things that I don’t have the time or
+ability to understand.
 </p>
 
 <p>
-<b>Hal</b>: It’s true that not everyone can code, but we need to give people the vision that, in principle, the technology can be controlled. As an analogy, think of when you needed to be an authorized Ford dealer to work on a Ford, because you needed specific parts to undo the welding. There was an entire industry that couldn’t exist because it was illegal to open the hood of your car! Today, not everyone can fix a car, but they have an idea that it can be done. This is what we need. It’s scary because the issue of software in the 90’s is expanding to anything that can connect to the net.
+<b>Hal</b>: It’s true that not everyone can code, but we need to give people
+the vision that, in principle, the technology can be controlled. As an analogy,
+think of when you needed to be an authorized Ford dealer to work on a Ford,
+because you needed specific parts to undo the welding. There was an entire
+industry that couldn’t exist because it was illegal to open the hood of your
+car! Today, not everyone can fix a car, but they have an idea that it can be
+done. This is what we need. It’s scary because the issue of software in the
+90’s is expanding to anything that can connect to the net.
 </p>
 </div>
 
-<h3> [Work done in] academia can be open sourced, and I can do it as a intern. But what is the viability of making a career writing open source software? </h3>
+<h3> Work done in academia can be open sourced, and I can also contribute as an
+intern. But what is the viability of making a career writing open source
+software?
+</h3>
 
 <div>
 <p>
-<b>Shauna</b>: There are open source companies you can work for! Redhat is one of the largest. They build solid software that is stable. They sell it to companies, and make help immediately available. There is also another customization [business] model that companies like Wordpress use. It’s free and open source, but people build plugins for it. Other companies are proprietary but fund members to work on free and open source software for their benefit. For example, Intel funds people to work on the Linux kernel. There are also non-profit companies you can join, where the mission of the project is more humanitarian, and for public knowledge.
+<b>Shauna</b>: There are open source companies you can work for! Red Hat is one
+of the largest. They build solid software that is stable. They sell it to
+companies, and make help immediately available. There is also another business
+model that companies like Wordpress use. It’s free and open source, but people
+build plugins for it. Other companies are proprietary but fund members to work
+on free and open source software for their benefit. For example, Intel funds
+people to work on the Linux kernel. There are also non-profit companies you can
+join, where the mission of the project is more humanitarian, and for public
+knowledge.
 </p>
 </div>
