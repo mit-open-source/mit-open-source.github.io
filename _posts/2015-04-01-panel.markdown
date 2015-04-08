@@ -7,21 +7,25 @@ author: "Neha Patki"
 tags:
 - panel
 ---
+![mitos]({{ site.url }}/img/2015-04-01-panel03.png)
+
 <p>
 Our first MITOS meeting was a great success! Thanks to everyone who came out
 today! To learn more about contributing to projects, we invited three speakers
 to answer our questions on open source in a panel discussion. Our panelists were
 Shauna Gordon-McKeon, Program Director for OpenHatch; Hal Abelson, professor at
 MIT CSAIL; and Adam Marcus, CSAIL PhD and contributor to Locu’s Chronology
-project. All three had varied experiences, so we got to see perspectives from
-freelance, free software, and industry.
+project. With their mix of experiences, we got to see perspectives from
+freelance, free software, and industry on topics like obscurity versus open
+source in the industry, making a viable career out of open source, and why
+students should get involved.
 </p>
 
 <p>
 Shauna also gave us a link to some paid open source opportunities for students.
 Although a lot of the programs are listed for 2014, they are still being held
 this year. Check them out at
-<a href="https://openhatch.org/wiki/Opportunities">https://openhatch.org/wiki/Opportunities</a>.
+<a href="https://openhatch.org/wiki/Opportunities">the OpenHatch site</a>.
 We’ll also be storing a list of open source projects discussed during MITOS
 meetings on our <a href="{{ site.baseurl }}/projects/">Projects Page</a>.
 </p>
@@ -30,11 +34,13 @@ meetings on our <a href="{{ site.baseurl }}/projects/">Projects Page</a>.
 We’ve paraphrased some of the questions and answers from the panel. Enjoy!
 </p>
 
+![Our venerable panelists]({{ site.url }}/img/2015-04-01-panel01.png)
+
 <h3>Introductions</h3>
 <div>
 <p>
 <b>Shauna</b>: I work with OpenHatch, and get students involved in open source.
-I run the ``Open Source Comes to Campus" event. I’m also a
+I run the "Open Source Comes to Campus" event. I’m also a
 freelancer/independent contractor, and I used to work in the biomedical field.
 </p>
 <p>
@@ -108,6 +114,8 @@ you can hide behind obscurity.
 </p>
 </div>
 
+![Adam]({{ site.url }}/img/2015-04-01-panel02.png)
+
 <h3> Free software’s goal is to have people understand what they’re using.
 Most people can’t read code. So how can we make sure that happens? </h3>
 
@@ -133,6 +141,8 @@ done. This is what we need. It’s scary because the issue of software in the
 90’s is expanding to anything that can connect to the net.
 </p>
 </div>
+
+![students]({{ site.url }}/img/2015-04-01-panel04.png)
 
 <h3> Work done in academia can be open sourced, and I can also contribute as an
 intern. But what is the viability of making a career writing open source
