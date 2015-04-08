@@ -8,7 +8,7 @@ tags:
 - panel
 ---
 <p>
-Our first MITOS meeting was a great success! Thanks to everyone who came out today! To learn more about contributing to projects, we invited three speakers to answer our open source questions in a panel discussion. Our panelists were Shauna Gordon-McKeon, Program Director for OpenHatch; Hal Abelson, professor at MIT; and Adam Marcus, CSAIL PhD and contributor to Locu’s Chronology project. All three had varied experiences, and we saw perspectives from freelance, free software, and industry.
+Our first MITOS meeting was a great success! Thanks to everyone who came out today! To learn more about contributing to projects, we invited three speakers to answer our open source questions in a panel discussion. Our panelists were Shauna Gordon-McKeon, Program Director for OpenHatch; Hal Abelson, professor at MIT CSAIL; and Adam Marcus, CSAIL PhD and contributor to Locu’s Chronology project. All three had varied experiences, and we saw perspectives from freelance, free software, and industry.
 </p>
 
 <p>
