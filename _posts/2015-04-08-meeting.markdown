@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Second Meeting"
+subtitle: "Finding a project"
+date: 2015-04-08 19:00:00
+author: "Stephanie"
+tags:
+- projects
+---
+
+<p>
+Today, MITOS talked about how to find an open source project to work on and
+where to get started with it. These can often be a couple of the biggest
+hurdles for new contributors, so please don't get discouraged at this step!
+Also, just to make this really clear, <b>you do not need an ongoing project to
+join MITOS</b>. In fact, if you don't have an ongoing project, that's an
+especially good reason to come!
+</p>
+
+<p>
+A couple things to think about when finding an open source project:
+  <ul>
+    <li>Is there an open source tool or app that you already use and love?</li>
+    <li>What areas or applications of computer science are you interested in [learning]?</li>
+    <li>Is the community around the project active?</li>
+    <li>Is the project small enough that your first contribution won't get buried?</li>
+    <li>Is the project written in a language you're comfortable with?</li>
+  </ul>
+</p>
+
+<p>
+Also, check out our <a href="{{ site.baseurl }}/projects/">Projects page</a>
+for our list-in-progress. Other good places to start are the <a
+href="http://openhatch.org/search/">OpenHatch list</a> and the <a
+href="hresources ttps://github.com/explore">GitHub Explore page</a>.
+</p>
+
+<p>
+Finally, we did a walkthrough of the life of a GitHub pull request.
+Conveniently, there's this great GitHub repository called <a
+href="https://github.com/illacceptanything/illacceptanything">illacceptanything</a>
+that (can you guess?) accepts anything. Remember that individual steps may vary
+with each project, but here's the basic sequence:
+  <ol>
+    <li>Go to the repository's GitHub page, and <a
+    href="https://help.github.com/articles/fork-a-repo/">fork</a> it.</li>
+    <li>Clone your forked repository.</li>
+    <li>Make a new git branch on your forked repository.</li>
+    <li>Code!</li>
+    <li>Push the changes to your forked repository.</li>
+    <li>Submit a pull request to the original repository.</li>
+  </ol>
+</p>
+
+<p>
+Here's our <a
+href="https://github.com/illacceptanything/illacceptanything/pull/525">demo
+pull request</a>, inspired by Domino's and new member Bennett. That's all for
+now. See you next week!
+</p>
