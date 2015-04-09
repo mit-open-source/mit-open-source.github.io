@@ -32,7 +32,7 @@ A couple things to think about when finding an open source project:
 Also, check out our <a href="{{ site.baseurl }}/projects/">Projects page</a>
 for our list-in-progress. Other good places to start are the <a
 href="http://openhatch.org/search/">OpenHatch list</a> and the <a
-href="hresources ttps://github.com/explore">GitHub Explore page</a>.
+href="https://github.com/explore">GitHub Explore page</a>.
 </p>
 
 <p>
