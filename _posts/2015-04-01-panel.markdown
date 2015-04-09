@@ -162,3 +162,22 @@ join, where the mission of the project is more humanitarian, and for public
 knowledge.
 </p>
 </div>
+
+<h3>
+What is the most interesting or useful project to work on?
+</h3>
+
+<div>
+<p>
+<b>Adam</b>: There can’t be one. Everyone’s excited about something different.
+There are properties of projects: people from not just one company and those
+that do a far better job of being inclusive to new members.
+</p>
+
+<p>
+<b>Shauna</b>: FLOSS projects are open, so you can see the community and how
+active they are. Look at their commit history: has there been a change
+recently? Look on mailing lists or IRC channels. Jump around until you find a
+good fit. People meet people this way.
+</p>
+</div>
