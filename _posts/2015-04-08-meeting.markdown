@@ -29,6 +29,12 @@ A couple things to think about when finding an open source project:
 </p>
 
 <p>
+Some students want to start their own side-project or be involved with research on campus.
+Although this may not be open source, the code may rely on open-source libraries, so many people start
+contributing when they notice a bug or see a missing feature.
+</p>
+
+<p>
 Also, check out our <a href="{{ site.baseurl }}/projects/">Projects page</a>
 for our list-in-progress. Other good places to start are the <a
 href="http://openhatch.org/search/">OpenHatch list</a> and the <a
