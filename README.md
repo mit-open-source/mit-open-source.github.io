@@ -1,6 +1,6 @@
 # MIT Open Source Website
 
-Official blog.
+Official [MITOS Blog](http://mitos.mit.edu/)
 
 ## Building
 
