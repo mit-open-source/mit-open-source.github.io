@@ -401,7 +401,6 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-
 /* bootstrap containers have some annoying
  * media queries that mess with the width
  */
