@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Blender"
+subtitle: "An Open Source 3D Animation Software"
+date: 2015-04-22 19:00:00
+author: "Neha"
+tags:
+- speaker
+---
+
+<p>
+Today we invited guest speaker Keir Mierle to tell us about a cool open source 3D 
+animation software called <a href="http://www.blender.org/">Blender</a>. 
+The software supports the entirety of the 3D animation pipeline, and can also 
+serve as a video editor and game engine.
+Keir specifically worked on Blender's motion tracking algorithm. He walked us 
+through a demo of tracking points in a room to learn the video camera's motion, 
+and add new elements to the room.
+</p>
+
+<p>
+Watch Keir's presentation below!
+</p> 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bp-L4XIP9c" frameborder="0"></iframe>
+
+<p>
+To get started contributing to Blender, check out 
+the <a href="http://wiki.blender.org/index.php/Dev:Doc/New_Developer_Info">New 
+Developer Info Wiki </a>. This page will walk you through building the latest
+version, as well as the dev/release process.
+</p>
