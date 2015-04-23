@@ -401,3 +401,13 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+/* bootstrap containers have some annoying
+ * media queries that mess with the width
+ */
+.mitos-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
